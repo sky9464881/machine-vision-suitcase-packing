@@ -60,6 +60,22 @@ Packing Optimization
    ↓
 UI Output
 
+Input Image
+   ↓
+Perspective Transform
+   ↓
+Table Region Crop
+   ↓
+YOLO Object Detection
+   ↓
+SAM2 Segmentation
+   ↓
+GT Mask-based Evaluation
+   ↓
+Packing Optimization
+   ↓
+UI Output
+
 # 1. 투시변환
 
 ## 목적
@@ -174,6 +190,11 @@ UI Output
 # 단계별 핵심 입력/출력 요약
 
 | 단계 | 입력 | 출력 |
+| --- | --- | --- |
+| 투시변환 | ArUco 포함 원본 이미지 | top-view 이미지, scale factor |
+| Segmentation | top-view 이미지 | 객체 ID, mask, class, feature |
+| OBB 탐지 | 객체 ID, mask | x, y, w, h, angle |
+| 배치 최적화 | 객체별 OBB 정보, feature, 우선순위 | 최종 배치 결과 |
 | --- | --- | --- |
 | 투시변환 | ArUco 포함 원본 이미지 | top-view 이미지, scale factor |
 | Segmentation | top-view 이미지 | 객체 ID, mask, class, feature |
