@@ -3,11 +3,16 @@
 사용자가 촬영한 물품 이미지를 기반으로 물체를 인식하고, 전처리·객체 검출·분할·평가를 거쳐 캐리어 배치 제안까지 연결하는 머신비전 프로젝트입니다.
 
 
+<img width="1477" height="491" alt="image" src="https://github.com/user-attachments/assets/c9c8637b-68dd-4ad9-ab63-7bd0530d37e6" />
+
+
+
+<img width="1495" height="572" alt="스크린샷 2026-03-26 170802" src="https://github.com/user-attachments/assets/0e0dc932-7f3d-4a35-9ff7-274a52e99280" />
 
 
 
 
->더 자세한 결과를 보려면 doc/presentation/머신 비전을 활용한 캐리어 배치 제안
+>더 자세한 결과를 보려면 doc/presentation/머신 비전을 활용한 캐리어 배치 제안 을 확인해 주세요
 ---
 
 ## 프로젝트 개요
