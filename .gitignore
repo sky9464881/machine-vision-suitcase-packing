@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+backup_pt/
+*.pth
+*.onnx
+
+structure_before.txt
+structure_no_git.txt
+pt_files.txt
+pt_files_after.txt
+git_status.txt
+git_status_short.txt
+
+.vscode/

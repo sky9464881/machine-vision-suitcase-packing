@@ -1,0 +1,58 @@
+﻿이미지,모델,예측개수,순번,라벨(영문),라벨(한글),신뢰도
+image_001,YOLO11x,5,1,keyboard,키보드,0.9629
+image_001,YOLO11x,5,2,handbag,가방,0.9219
+image_001,YOLO11x,5,3,cell phone,휴대폰,0.6629
+image_001,YOLO11x,5,4,toothbrush,칫솔,0.6441
+image_001,YOLO11x,5,5,book,책,0.4442
+image_001,YOLO11_bh,5,1,keyboard,키보드,0.9579
+image_001,YOLO11_bh,5,2,hair drier,헤어드라이어,0.8016
+image_001,YOLO11_bh,5,3,toothbrush,칫솔,0.7934
+image_001,YOLO11_bh,5,4,handbag,가방,0.7398
+image_001,YOLO11_bh,5,5,cell phone,휴대폰,0.5324
+image_002,YOLO11x,5,1,scissors,가위,0.9473
+image_002,YOLO11x,5,2,keyboard,키보드,0.4513
+image_002,YOLO11x,5,3,handbag,가방,0.4334
+image_002,YOLO11x,5,4,umbrella,umbrella,0.3455
+image_002,YOLO11x,5,5,mouse,마우스,0.2993
+image_002,YOLO11_bh,6,1,scissors,가위,0.8877
+image_002,YOLO11_bh,6,2,keyboard,키보드,0.5557
+image_002,YOLO11_bh,6,3,backpack,backpack,0.3538
+image_002,YOLO11_bh,6,4,umbrella,umbrella,0.2827
+image_002,YOLO11_bh,6,5,toothbrush,칫솔,0.2709
+image_002,YOLO11_bh,6,6,mouse,마우스,0.2663
+image_003,YOLO11x,5,1,scissors,가위,0.9146
+image_003,YOLO11x,5,2,keyboard,키보드,0.9107
+image_003,YOLO11x,5,3,backpack,backpack,0.7992
+image_003,YOLO11x,5,4,book,책,0.701
+image_003,YOLO11x,5,5,umbrella,umbrella,0.4603
+image_003,YOLO11_bh,7,1,bottle,병,0.9827
+image_003,YOLO11_bh,7,2,hair drier,헤어드라이어,0.9195
+image_003,YOLO11_bh,7,3,backpack,backpack,0.8511
+image_003,YOLO11_bh,7,4,scissors,가위,0.8183
+image_003,YOLO11_bh,7,5,book,책,0.7484
+image_003,YOLO11_bh,7,6,keyboard,키보드,0.6303
+image_003,YOLO11_bh,7,7,umbrella,umbrella,0.2994
+image_004,YOLO11x,2,1,scissors,가위,0.9383
+image_004,YOLO11x,2,2,keyboard,키보드,0.7154
+image_004,YOLO11_bh,3,1,bottle,병,0.9325
+image_004,YOLO11_bh,3,2,scissors,가위,0.7859
+image_004,YOLO11_bh,3,3,keyboard,키보드,0.5891
+image_005,YOLO11x,5,1,book,책,0.961
+image_005,YOLO11x,5,2,scissors,가위,0.9491
+image_005,YOLO11x,5,3,keyboard,키보드,0.8577
+image_005,YOLO11x,5,4,toothbrush,칫솔,0.464
+image_005,YOLO11x,5,5,cell phone,휴대폰,0.4261
+image_005,YOLO11_bh,6,1,bottle,병,0.9818
+image_005,YOLO11_bh,6,2,book,책,0.9537
+image_005,YOLO11_bh,6,3,scissors,가위,0.8333
+image_005,YOLO11_bh,6,4,toothbrush,칫솔,0.7735
+image_005,YOLO11_bh,6,5,book,책,0.7389
+image_005,YOLO11_bh,6,6,cell phone,휴대폰,0.5113
+image_006,YOLO11x,5,1,scissors,가위,0.9432
+image_006,YOLO11x,5,2,book,책,0.4815
+image_006,YOLO11x,5,3,cell phone,휴대폰,0.4558
+image_006,YOLO11x,5,4,keyboard,키보드,0.3714
+image_006,YOLO11x,5,5,chair,chair,0.3331
+image_006,YOLO11_bh,3,1,scissors,가위,0.9141
+image_006,YOLO11_bh,3,2,toothbrush,칫솔,0.6459
+image_006,YOLO11_bh,3,3,cell phone,휴대폰,0.261
