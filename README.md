@@ -169,6 +169,7 @@ UI Output
 
 <img width="299" height="309" alt="image" src="https://github.com/user-attachments/assets/87bc16c3-41cf-451c-90b3-4265e8fd1165" /> <img width="268" height="270" alt="image" src="https://github.com/user-attachments/assets/a096533e-4197-47be-99ac-1fef6cef9715" />
 
+<img width="583" height="89" alt="image" src="https://github.com/user-attachments/assets/5ae19d5c-3416-4946-96a7-c69320573ac1" />
 
 ## 목적
 
