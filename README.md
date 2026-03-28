@@ -78,6 +78,8 @@ UI Output
 ```
 # 1. 투시변환
 
+<img width="890" height="348" alt="image" src="https://github.com/user-attachments/assets/f478f88a-7fd1-4c5c-9053-c5ee3a648382" />
+
 ## 목적
 
 - 카메라 각도로 인해 왜곡된 이미지를 **top-view** 형태로 보정
@@ -160,6 +162,8 @@ UI Output
 ---
 
 # 4. 배치 최적화
+<img width="333" height="312" alt="image" src="https://github.com/user-attachments/assets/32a06ab6-0de1-43b2-8768-df29c489b857" /><img width="280" height="276" alt="image" src="https://github.com/user-attachments/assets/486b9b20-b576-4c45-9f18-6e136ca092e6" />
+<img width="584" height="91" alt="image" src="https://github.com/user-attachments/assets/bfd57764-d023-4847-8caf-59988ac8ae92" />
 
 ## 목적
 
