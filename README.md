@@ -105,6 +105,8 @@ UI Output
 
 # 2. 짐 Segmentation
 
+<img width="452" height="194" alt="image" src="https://github.com/user-attachments/assets/574b7274-0040-48ae-8e6c-69dc2b25e5fa" />
+
 ## 목적
 
 - 이미지 내 개별 짐을 객체 단위로 분리
@@ -134,6 +136,8 @@ UI Output
 
 # 3. OBB 탐지
 
+<img width="815" height="317" alt="image" src="https://github.com/user-attachments/assets/24a2e4d7-adf9-4fa5-ac82-d33d2f1aff0c" />
+
 ## 목적
 
 - 배치 최적화 알고리즘의 입력 형태를 **직사각형(Rectangle)** 으로 변환
@@ -162,8 +166,8 @@ UI Output
 ---
 
 # 4. 배치 최적화
-<img width="333" height="312" alt="image" src="https://github.com/user-attachments/assets/32a06ab6-0de1-43b2-8768-df29c489b857" /><img width="280" height="276" alt="image" src="https://github.com/user-attachments/assets/486b9b20-b576-4c45-9f18-6e136ca092e6" />
-<img width="584" height="91" alt="image" src="https://github.com/user-attachments/assets/bfd57764-d023-4847-8caf-59988ac8ae92" />
+
+<img width="299" height="309" alt="image" src="https://github.com/user-attachments/assets/87bc16c3-41cf-451c-90b3-4265e8fd1165" /><img width="584" height="91" alt="image" src="https://github.com/user-attachments/assets/bfd57764-d023-4847-8caf-59988ac8ae92" />
 
 ## 목적
 
