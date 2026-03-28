@@ -167,7 +167,8 @@ UI Output
 
 # 4. 배치 최적화
 
-<img width="299" height="309" alt="image" src="https://github.com/user-attachments/assets/87bc16c3-41cf-451c-90b3-4265e8fd1165" /><img width="584" height="91" alt="image" src="https://github.com/user-attachments/assets/bfd57764-d023-4847-8caf-59988ac8ae92" />
+<img width="299" height="309" alt="image" src="https://github.com/user-attachments/assets/87bc16c3-41cf-451c-90b3-4265e8fd1165" /> <img width="268" height="270" alt="image" src="https://github.com/user-attachments/assets/a096533e-4197-47be-99ac-1fef6cef9715" />
+
 
 ## 목적
 
